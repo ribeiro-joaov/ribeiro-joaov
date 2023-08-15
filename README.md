@@ -22,3 +22,6 @@
 </picture>
 
 </div>
+
+
+![ribeiro-joaov's GitHub stats](https://github-readme-stats.vercel.app/api?username=ribeiro-joaov&show_icons=true&theme=transparent)
