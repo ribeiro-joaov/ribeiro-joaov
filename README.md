@@ -4,7 +4,7 @@
   [![ribeiro-joaov's GitHub stats](https://github-readme-stats.vercel.app/api?username=ribeiro-joaov&show_icons=true&theme=radical)](https://github.com/ribeiro-joaov)
     <br>
     <br>
-[![Top Langs](https://ribeiro-joaov-readme.vercel.app/api/top-langs/?username=ribeiro-joaov&layout=donut)](https://github.com/ribeiro-joaov)
+[![Top Langs](https://ribeiro-joaov-readme.vercel.app/api/top-langs/?username=ribeiro-joaov&layout=donut&theme=radical)](https://github.com/ribeiro-joaov)
   
 
 <br>
