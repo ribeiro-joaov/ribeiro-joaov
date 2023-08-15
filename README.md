@@ -1,13 +1,10 @@
 ## Bem-vindo(a) ao perfil do João Ribeiro 😁
 
-  <div>
-  <a href="https://github.com/ribeiro-joaov">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribeiro-joaov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  ![ribeiro-joaov's GitHub stats](https://github-readme-stats.vercel.app/api?username=ribeiro-joaov&show_icons=true&theme=radical)
     <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiro-joaov&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-   
-<div> 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiro-joaov&hide_progress=true&theme=radical)
+
 <br>
 <br>
 
@@ -21,7 +18,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ribeiro-joaov/ribeiro-joaov/output/github-contribution-grid-snake.svg">
 </picture>
 
-</div>
 
 
-![ribeiro-joaov's GitHub stats](https://github-readme-stats.vercel.app/api?username=ribeiro-joaov&show_icons=true&theme=merko)
+
+
